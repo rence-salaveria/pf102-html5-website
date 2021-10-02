@@ -4,7 +4,7 @@ HTML5 Website
 
 ## Instructions
 
-Create a simple login and registration form on one page just like the old Facebook website.
+Create an HTML5 website using semantics and structure tags.
 
 ## Screenshot
 
@@ -17,5 +17,10 @@ Create a simple login and registration form on one page just like the old Facebo
 ## Services and Software used
 
 - Google fonts
-- [Coolors.co](https://coolors.co)
+- [Coolors.co][1]
 - JetBrains Webstorm
+- [icons8][2]
+
+[1]: (https://coolors.co)
+
+[2]: (https://icons8.com)
