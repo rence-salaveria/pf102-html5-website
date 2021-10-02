@@ -1,0 +1,46 @@
+/* imports */
+
+/* variables */
+:root {
+    --white: #fff;
+    --black: #000;
+    --primary: #000111;
+    --accent: #0ec43a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* styles */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    transition: 0.5s;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: var(--accent);
+
+}
+
+li a:active {
+    background-color: var(--accent);
+}
