@@ -57,3 +57,8 @@ a.nav-item:hover {
     font-weight: 300;
     font-size: 15px;
 }
+
+/* card */
+.card-img {
+    width: 256px;
+}
