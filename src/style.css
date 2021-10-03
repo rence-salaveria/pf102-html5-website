@@ -1,10 +1,11 @@
 /* imports */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&display=swap');
 
 /* variables */
 :root {
     --white: #fff;
     --black: #000;
-    --primary: #000111;
+    --primary: #2a2a31;
     --accent: #0ec43a;
 }
 
@@ -15,32 +16,44 @@
 
 /* styles */
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    list-style: none;
     overflow: hidden;
-    background-color: #333;
+    background-color: var(--primary);
 }
 
 li {
-    float: left;
-    transition: 0.5s;
+    float: right;
 }
 
 li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
+    text-align: center;
+    color: var(--white);
+    display: block;
+    transition: 0.3s;
+    padding: 15px 10px;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: var(--accent);
-
+a.nav-item {
+    font-family: "DM Sans", sans-serif;
+    font-size: 15px;
 }
 
-li a:active {
+a.nav-item:hover {
     background-color: var(--accent);
+}
+
+.active {
+    background-color: var(--accent);
+}
+
+.nav-logo {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.nav-brand {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
 }
