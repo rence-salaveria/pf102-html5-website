@@ -115,6 +115,7 @@ a.nav-item:hover {
 }
 
 .card-img-full {
+    height: 350px;
     width: 501px;
     border-radius: 5px 5px 0 0;
 }
