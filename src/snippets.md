@@ -32,7 +32,6 @@
 ## Navbar
 
 ```html
-
 <div class="nav-bar">
     <nav>
         <ul class="navbar-inline">
