@@ -112,3 +112,8 @@ a.nav-item:hover {
     font-style: italic;
     color: #bbb;
 }
+
+.card-img-full {
+    width: 501px;
+    border-radius: 5px 5px 0 0;
+}
