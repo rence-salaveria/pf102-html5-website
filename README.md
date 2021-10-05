@@ -10,7 +10,7 @@ Create an HTML5 website using semantics and structure tags.
 
 ![Screenshot](assets/screenshots/img.png)
 
-**Submission Date:** Oct , 2021
+**Submission Date:** Oct 5, 2021
 
 **Due Date:** Oct 8, 2021
 
