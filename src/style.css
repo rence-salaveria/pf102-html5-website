@@ -9,6 +9,7 @@
     --primary: #2a2a31;
     --accent: #0ec43a;
     --grey: grey;
+
 }
 
 * {
@@ -19,6 +20,15 @@
 /* styles */
 body {
     font-family: "Roboto", sans-serif;
+}
+
+h4 a {
+    text-decoration: none;
+    color: var(--accent);
+}
+
+h3 {
+    color: var(--accent);
 }
 
 .article-container {
