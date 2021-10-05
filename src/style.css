@@ -199,3 +199,14 @@ a.nav-item:hover {
     color: var(--white);
     opacity: 1;
 }
+
+.visit-res {
+    margin-top: 8px;
+}
+
+.btn {
+    padding: 3px 3px;
+    margin-bottom: 8px;
+    border-radius: 30px;
+    border: 1px solid var(--black);
+}
