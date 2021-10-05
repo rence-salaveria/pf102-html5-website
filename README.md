@@ -8,7 +8,7 @@ Create an HTML5 website using semantics and structure tags.
 
 ## Screenshot
 
-![]()
+![Screenshot](assets/screenshots/img.png)
 
 **Submission Date:** Oct , 2021
 
@@ -20,6 +20,7 @@ Create an HTML5 website using semantics and structure tags.
 - [Coolors.co][1]
 - JetBrains Webstorm
 - [icons8][2]
+- Height Project Manager
 
 [1]: (https://coolors.co)
 
